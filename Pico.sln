@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34112.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pico", "Pico\Pico.csproj", "{C5B9EEEA-F31B-41AF-A8B8-6ABD2FD10800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B9EEEA-F31B-41AF-A8B8-6ABD2FD10800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B9EEEA-F31B-41AF-A8B8-6ABD2FD10800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B9EEEA-F31B-41AF-A8B8-6ABD2FD10800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B9EEEA-F31B-41AF-A8B8-6ABD2FD10800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2865A4F-55AF-42CA-BDBD-DD2B4E4B0061}
+	EndGlobalSection
+EndGlobal
